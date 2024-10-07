@@ -27,6 +27,14 @@ Features
 - **Email Management:** Users can view a list of emails, select an email to view details, and navigate back to the list.
 - **State Restoration:** The app retains the selected email details even after configuration changes (like screen rotation), ensuring a smooth user experience.
 
+
+ScreenShots
+-------------
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+
 Getting Started
 ---------------
 
