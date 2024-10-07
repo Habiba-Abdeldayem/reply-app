@@ -47,8 +47,8 @@ Testing
 ---------------
 - The app includes UI tests to ensure that different navigation options are functioning correctly based on the window size. The following tests are implemented:
 
-##### Navigation Tests:
+1. **Navigation Tests:**
 Verify the correct navigation component is displayed on different screen sizes (Compact, Medium, Expanded).
 
-##### State Restoration Tests:
+2. **State Restoration Tests:**
 Ensure that the selected email details persist after configuration changes.
